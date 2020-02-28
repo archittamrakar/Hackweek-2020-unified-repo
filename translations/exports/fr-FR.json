@@ -1,0 +1,685 @@
+{
+  "change_management.pco.description": {
+    "message": "Modifier la description",
+    "description": "The property named 'Description' of an object called a 'Change'"
+  },
+  "change_management.pco.distributed_notes": {
+    "message": "Notes de distribution"
+  },
+  "change_management.pco.manager.company": {
+    "message": "Société du gestionnaire"
+  },
+  "change_management.pco.manager.email": {
+    "message": "E-mail du gestionnaire"
+  },
+  "change_management.pco.manager.name": {
+    "message": "Nom du gestionnaire"
+  },
+  "change_management.pco.number": {
+    "message": "Modifier le numéro",
+    "description": "The property named 'Number' of an object called a 'Change'"
+  },
+  "change_management.pco.status": {
+    "message": "État"
+  },
+  "change_management.pco.title": {
+    "message": "Modifier le titre",
+    "description": "The property named 'Title' of an object called a 'Change'"
+  },
+  "change_management.project.address": {
+    "message": "Adresse du projet"
+  },
+  "change_management.project.name": {
+    "message": "Nom du projet"
+  },
+  "change_management.quote.amount": {
+    "message": "Montant du devis"
+  },
+  "change_management.quote.details": {
+    "message": "Détails du devis"
+  },
+  "change_management.report.addressFrom": {
+    "message": "De",
+    "description": "Used before a person's name and address"
+  },
+  "change_management.report.addressTo": {
+    "message": "À",
+    "description": "Used before a person's name and address"
+  },
+  "change_management.report.created_on": {
+    "message": "Créé le",
+    "description": "Used before a date to indicate when a report was created."
+  },
+  "change_management.report.details": {
+    "message": "Détails du rapport",
+    "description": "The property named 'Description' of an object called a 'Report'"
+  },
+  "change_management.rfq.authorization": {
+    "message": "Autorisation"
+  },
+  "change_management.rfq.authorized": {
+    "message": "Vous êtes autorisé à poursuivre"
+  },
+  "change_management.rfq.created_by": {
+    "message": "Créé par",
+    "description": "Used before a user to indicate who requested the quote"
+  },
+  "change_management.rfq.due_date": {
+    "message": "Échéance prévue le"
+  },
+  "change_management.rfq.message": {
+    "message": "Message"
+  },
+  "change_management.rfq.notes": {
+    "message": "Notes",
+    "description": "Notes attached to quotes"
+  },
+  "change_management.rfq.not_authorized": {
+    "message": "Vous n'êtes pas autorisé à poursuivre, veuillez attendre l'approbation."
+  },
+  "change_management.rfq.requested_from": {
+    "message": "Demandé de la part de",
+    "description": "Used before a user to indicate who the quote was requested from"
+  },
+  "contents": {
+    "message": "Sommaire",
+    "description": "Contents of a report"
+  },
+  "created_with_pg": {
+    "message": "Créé avec PlanGrid",
+    "description": "Our tagline on report PDFs"
+  },
+  "custom_items_report.count": {
+    "message": "{count, plural,\n=0 { # élément }\none { # élément  }\nother { # éléments  }\n}",
+    "description": "Count of Custom Items Reports"
+  },
+  "custom_items_report.header": {
+    "message": "Éléments de soumission",
+    "description": "String to represent the heading in custom_items_report "
+  },
+  "custom_packages_report.count": {
+    "message": "{ count, plural,\n=0 { # package  }\none { # package  }\nother { # packages  } }",
+    "description": "Count of Custom Package Reports"
+  },
+  "custom_packages_report.header": {
+    "message": "Packages de soumission",
+    "description": "String to represent the heading in custom_packages_report"
+  },
+  "custom_report.header.project_id": {
+    "message": "ID",
+    "description": "String to represent the heading in custom_packages_report"
+  },
+  "custom_reports.footer_page": {
+    "message": "Page { page_number }",
+    "description": "String used to represent Page in footer."
+  },
+  "custom_reports.footer_page_continued": {
+    "message": "[suite]",
+    "description": "String used to represent continued in page of footer."
+  },
+  "custom_reports.footer_project": {
+    "message": "dans le projet",
+    "description": "String used to represent the total count of items/packages for project."
+  },
+  "custom_reports.footer_report": {
+    "message": "dans le rapport,",
+    "description": "String used to represent the total count items/packages for reports."
+  },
+  "custom_reports.footer_total_pages": {
+    "message": "sur { total_pages }",
+    "description": "String to represent the total number of pages in footer"
+  },
+  "custom_reports.last_activity": {
+    "message": "{ last_activity}",
+    "description": "String used to represent last updated days of package or item"
+  },
+  "custom_reports.status": {
+    "message": "{ status }",
+    "description": "String used to represent the status field in custom reports"
+  },
+  "description": {
+    "message": "Description",
+    "description": "Description of a report"
+  },
+  "documents": {
+    "message": "Documents",
+    "description": "Documents label"
+  },
+  "field_reports.count": {
+    "message": "{count, plural, \n=0 { # rapports d'activités }\none { # rapport d'activités } \nother { # rapports d'activités}\n}",
+    "description": "Count of Field Reports in current export"
+  },
+  "field_reports.notes": {
+    "message": "Description"
+  },
+  "field_reports.report_details": {
+    "message": "Informations du rapport"
+  },
+  "field_reports.status.archived": {
+    "message": "Archivé"
+  },
+  "field_reports.status.discarded": {
+    "message": "Supprimé"
+  },
+  "field_reports.status.draft": {
+    "message": "Brouillon"
+  },
+  "field_reports.status.submitted": {
+    "message": "Envoyé"
+  },
+  "field_reports.submitted_by": {
+    "message": "Envoyé par"
+  },
+  "issue.assignees": {
+    "message": "Bénéficiaires",
+    "description": "Assignees of an issue"
+  },
+  "issue.closed_at": {
+    "message": "Levée à",
+    "description": "Closing date for an issue"
+  },
+  "issue.cost_impact": {
+    "message": "Impact sur les coûts",
+    "description": "The amount of money/cost associated with an issue"
+  },
+  "issue.created": {
+    "message": "Créée",
+    "description": "Creation date of an issue"
+  },
+  "issue.description": {
+    "message": "Description",
+    "description": "Status of an issue"
+  },
+  "issue.description_default": {
+    "message": "{ count, plural, \n=0 {# tâches} \none {# tâche} \nother {# tâches}} dans ce rapport.",
+    "description": "Default description for issue report"
+  },
+  "issue.due_at": {
+    "message": "Échéance prévue le",
+    "description": "Due date of an issue"
+  },
+  "issue.due_date": {
+    "message": "Échéance",
+    "description": "Due date of an issue"
+  },
+  "issue.followers": {
+    "message": "Abonnés",
+    "description": "Followers of an issue"
+  },
+  "issue.last_updated": {
+    "message": "Dernière mise à jour",
+    "description": "Last updated date of an issue"
+  },
+  "issue.list": {
+    "message": "Liste",
+    "description": "list of an issue"
+  },
+  "issue.location": {
+    "message": "Emplacement",
+    "description": "Location of an issue"
+  },
+  "issue.optional_field_unspecified": {
+    "message": "Oui (non spécifié)",
+    "description": "Default for an unspecified field"
+  },
+  "issue.schedule_impact": {
+    "message": "Impact sur le planning",
+    "description": "The amount of time lost on the schedule for an issue"
+  },
+  "issue.see_full_description": {
+    "message": "Voir la description complète",
+    "description": "Prompt to view the full description for an issue"
+  },
+  "issue.sheet": {
+    "message": "Plan",
+    "description": "Sheet of an issue"
+  },
+  "issue.start_date": {
+    "message": "Date de début",
+    "description": "Start date of an issue"
+  },
+  "issue.status": {
+    "message": "État",
+    "description": "Status of an issue"
+  },
+  "issue.status.closed": {
+    "message": "Levée",
+    "description": "Closed status"
+  },
+  "issue.status.open": {
+    "message": "Ouverte",
+    "description": "Open status"
+  },
+  "issue.status.pending": {
+    "message": "En attente d'approbation",
+    "description": "Pending status"
+  },
+  "issue.status.review": {
+    "message": "En révision",
+    "description": "In review status"
+  },
+  "issue.type": {
+    "message": "Type",
+    "description": "Type of an issue"
+  },
+  "issue.type.issue": {
+    "message": "Réserve",
+    "description": "Issue type"
+  },
+  "issue.type.other": {
+    "message": "Autre",
+    "description": "Other type"
+  },
+  "issue.type.planned_work": {
+    "message": "Tâche planifiée",
+    "description": "Planned work type"
+  },
+  "issue.watchers": {
+    "message": "Observateurs",
+    "description": "Watchers of an issue"
+  },
+  "issues": {
+    "message": "Tâches",
+    "description": "Tasks label"
+  },
+  "none": {
+    "message": "Aucun",
+    "description": "None"
+  },
+  "pg_form.equipment.column_label.comment": {
+    "message": "Commentaire"
+  },
+  "pg_form.equipment.column_label.equipment": {
+    "message": "Équipement"
+  },
+  "pg_form.equipment.column_label.num_hours": {
+    "message": "Heures utilisées"
+  },
+  "pg_form.equipment.column_label.quantity": {
+    "message": "Quantité"
+  },
+  "pg_form.equipment.title": {
+    "message": "Équipement"
+  },
+  "pg_form.Fail": {
+    "message": "Échec",
+    "description": "Failed to pass inspection"
+  },
+  "pg_form.False": {
+    "message": "Faux",
+    "description": "Boolean false"
+  },
+  "pg_form.materials.column_label.comment": {
+    "message": "Commentaire"
+  },
+  "pg_form.materials.column_label.material": {
+    "message": "Matériau"
+  },
+  "pg_form.materials.column_label.quantity": {
+    "message": "Quantité"
+  },
+  "pg_form.materials.column_label.unit": {
+    "message": "Unité"
+  },
+  "pg_form.materials.title": {
+    "message": "Matériaux"
+  },
+  "pg_form.NA": {
+    "message": "Sans objet",
+    "description": "Not applicable"
+  },
+  "pg_form.No": {
+    "message": "Non",
+    "description": "Negative answer to the question"
+  },
+  "pg_form.Pass": {
+    "message": "Réussite",
+    "description": "Passed inspection"
+  },
+  "pg_form.totals": {
+    "message": "Totaux"
+  },
+  "pg_form.True": {
+    "message": "Vrai",
+    "description": "Boolean true"
+  },
+  "pg_form.worklog.column_label.description": {
+    "message": "Tâche effectuée"
+  },
+  "pg_form.worklog.column_label.num_hours": {
+    "message": "# d'heures total"
+  },
+  "pg_form.worklog.column_label.num_people": {
+    "message": "# de travailleurs"
+  },
+  "pg_form.worklog.column_label.trade": {
+    "message": "Corps de métier"
+  },
+  "pg_form.worklog.title": {
+    "message": "Carnet de travail"
+  },
+  "pg_form.Yes": {
+    "message": "Oui",
+    "description": "Positive answer to the question"
+  },
+  "photos": {
+    "message": "Photos",
+    "description": "Photos label"
+  },
+  "photos.video_link": {
+    "message": "Télécharger la vidéo",
+    "description": "Publicly accessible link to a video"
+  },
+  "prepared_by": {
+    "message": "Préparé par {name}",
+    "description": "Specifies who created a report"
+  },
+  "rfi_custom_report.count": {
+    "message": "{ count, plural,\n=0 { # RFI  }\none { # RFI  }\nother { # RFI  } \n}",
+    "description": "Count of RFI Custom Reports"
+  },
+  "rfi_custom_report.header": {
+    "message": "Journal des RFI",
+    "description": "Heading of Custom Reports of RFIs"
+  },
+  "snapshots": {
+    "message": "Captures d'écran",
+    "description": "Snapshots label"
+  },
+  "status": {
+    "message": "État",
+    "description": "Status label"
+  },
+  "submittals.assigned_to_me": {
+    "message": "assignée à moi-même"
+  },
+  "submittals_report": {
+    "message": "Submittal ReportFR"
+  },
+  "submittals_overview": {
+    "message": "Submittal OverviewFR"
+  },
+  "submittals.completed": {
+    "message": "CompletedFR"
+  },
+  "submittals.team_members": {
+    "message": "Team MembersFR"
+  },
+  "submittals.due_from_my_team": {
+    "message": "due from my teamFR"
+  },
+  "submittals.due_from_reviewers": {
+    "message": "due from reviewersFR"
+  },
+  "submittals.due_from_submitters": {
+    "message": "due from submittersFR"
+  },
+  "submittals.company": {
+    "message": "Société"
+  },
+  "submittals.due_date": {
+    "message": "Échéance"
+  },
+  "submittals.overdue": {
+    "message": "En retard"
+  },
+  "submittals.package_no": {
+    "message": "Numéro du package"
+  },
+  "submittals.received_date": {
+    "message": "Date de réception"
+  },
+  "submittals.revise_and_resubmit": {
+    "message": "Réviser et soumettre à nouveau"
+  },
+  "submittals.spec": {
+    "message": "Descriptif"
+  },
+  "submittals.status": {
+    "message": "État"
+  },
+  "submittals.submitter": {
+    "message": "Auteur"
+  },
+  "submittals.submitters": {
+    "message": "Auteurs"
+  },
+  "submittals.title": {
+    "message": "Titre"
+  },
+  "submittals.unassigned": {
+    "message": "Non attribué"
+  },
+  "submittals.upcoming": {
+    "message": "À venir"
+  },
+  "submittal_package_export.ball_in_court_changed": {
+    "message": "Intervention requise modifiée en"
+  },
+  "submittal_package_export.changed_from_none": {
+    "message": "{display_name} a été modifié de Aucun à {new_value}"
+  },
+  "submittal_package_export.changed_from_old_value": {
+    "message": "{display_name} a été modifié de {new_value} à {old_value}"
+  },
+  "submittal_package_export.date": {
+    "message": "Date"
+  },
+  "submittal_package_export.date_reviewed": {
+    "message": "Date de révision"
+  },
+  "submittal_package_export.due_date": {
+    "message": "Échéance"
+  },
+  "submittal_package_export.file_group_finalized": {
+    "message": "{count, plural,\n=0 {# document téléchargé}\none {# document téléchargé}\nother {# documents téléchargés}\n}"
+  },
+  "submittal_package_export.from": {
+    "message": "Depuis"
+  },
+  "submittal_package_export.from_group": {
+    "message": "depuis le groupe {group_names}"
+  },
+  "submittal_package_export.history": {
+    "message": "Historique"
+  },
+  "submittal_package_export.included_items": {
+    "message": "Éléments inclus"
+  },
+  "submittal_package_export.manager_added": {
+    "message": "{manager} a été ajouté en tant que gestionnaire."
+  },
+  "submittal_package_export.manager_group_added": {
+    "message": "Le groupe de {manager} a été ajouté en tant que gestionnaire."
+  },
+  "submittal_package_export.manager_group_removed": {
+    "message": "Le groupe de {manager} a été supprimé en tant que gestionnaire."
+  },
+  "submittal_package_export.manager_removed": {
+    "message": "{manager} a été supprimé en tant que manager."
+  },
+  "submittal_package_export.marked_as_official": {
+    "message": "Défini comme révision officielle."
+  },
+  "submittal_package_export.none": {
+    "message": "Aucun"
+  },
+  "submittal_package_export.num_files_submitted": {
+    "message": "{count, plural, \n=0 { # fichier soumis }\none { # fichier soumis }\nother { # fichiers soumis }\n}"
+  },
+  "submittal_package_export.package_created": {
+    "message": "a envoyé le package à {submitter_name} pour soumission."
+  },
+  "submittal_package_export.package_marked_as": {
+    "message": "Le package a été défini comme étant"
+  },
+  "submittal_package_export.published": {
+    "message": "Publié par {publisher_name}"
+  },
+  "submittal_package_export.reopened_from_published": {
+    "message": "Ouvert à nouveau après publication de {updated_by}"
+  },
+  "submittal_package_export.reopened_from_void": {
+    "message": "Ouvert à nouveau après annulation de {updated_by}"
+  },
+  "submittal_package_export.resubmitted": {
+    "message": "Soumis à nouveau par {updater_name}"
+  },
+  "submittal_package_export.returned_to_submitter": {
+    "message": "Renvoyé à {subcontractor_name} pour révision et nouvelle soumission."
+  },
+  "submittal_package_export.reviewed_by": {
+    "message": "Révisé par {reviewer}"
+  },
+  "submittal_package_export.reviewed_by_group": {
+    "message": "Révisé par {reviewer_name} depuis le groupe {group_names}"
+  },
+  "submittal_package_export.reviewed_on_behalf_of": {
+    "message": "Révisé par {reviewer_name} pour le compte de {reviewed_on_behalf_of_reviewers}"
+  },
+  "submittal_package_export.reviewer": {
+    "message": "Réviseur"
+  },
+  "submittal_package_export.reviewers": {
+    "message": "Réviseurs"
+  },
+  "submittal_package_export.reviewer_addded": {
+    "message": "{reviewer} a été ajouté en tant que réviseur."
+  },
+  "submittal_package_export.reviewer_added": {
+    "message": "{reviewer} a été ajouté en tant que réviseur."
+  },
+  "submittal_package_export.reviewer_group_added": {
+    "message": "Le groupe de {reviewer} a été ajouté en tant que réviseur."
+  },
+  "submittal_package_export.reviewer_group_removed": {
+    "message": "Le  groupe de {reviewer} a été supprimé en tant que réviseur."
+  },
+  "submittal_package_export.reviewer_removed": {
+    "message": "{reviewer} a été supprimé en tant que réviseur."
+  },
+  "submittal_package_export.review_label_text": {
+    "message": "{review_label_text}"
+  },
+  "submittal_package_export.review_response": {
+    "message": "Réponse de la révision"
+  },
+  "submittal_package_export.sent_to_design_reviewer": {
+    "message": "Envoyé à {design_reviewer_name} par {updater_name} pour la revue de conception"
+  },
+  "submittal_package_export.sent_to_reviewer": {
+    "message": "Envoyé à {reviewer_names} par {updater_name} pour la revue de conception"
+  },
+  "submittal_package_export.spec_section": {
+    "message": "Section descriptive"
+  },
+  "submittal_package_export.submittal_no": {
+    "message": "Numéro de soumission"
+  },
+  "submittal_package_export.submitted": {
+    "message": "Envoyé par {updater_name}"
+  },
+  "submittal_package_export.submitter_added": {
+    "message": "{submitter} a été ajouté  en tant qu'auteur."
+  },
+  "submittal_package_export.submitter_group": {
+    "message": "Renvoyé au groupe {subcontractor_name}"
+  },
+  "submittal_package_export.submitter_group_added": {
+    "message": "Le groupe de {submitter} a été ajouté en tant qu'auteur"
+  },
+  "submittal_package_export.submitter_group_names": {
+    "message": "{creator_name} {submitter_group_names}"
+  },
+  "submittal_package_export.submitter_group_removed": {
+    "message": "Le groupe de {submitter} a été supprimé en tant qu'auteur."
+  },
+  "submittal_package_export.submitter_removed": {
+    "message": "{submitter} a été supprimé en tant qu'auteur."
+  },
+  "submittal_package_export.to": {
+    "message": "{count, plural, \n =0 { Pour # réviseur }\none { Pour # réviseur }\nother { Pour # réviseurs }\n}"
+  },
+  "submittal_package_export.updated": {
+    "message": "{updater_name} a mis à jour les détails du package suivants :"
+  },
+  "submittal_package_export.version": {
+    "message": "Version"
+  },
+  "submittal_package_export.voided": {
+    "message": "Annulé par {updated_by}"
+  },
+  "submittal_package_export.watcher_added": {
+    "message": "{watcher} a été ajouté à la liste des observateurs."
+  },
+  "submittal_package_export.watcher_group_added": {
+    "message": "Le groupe {watcher} a été ajouté à la liste d'observation."
+  },
+  "submittal_package_export.watcher_group_removed": {
+    "message": "Le groupe de {watcher} a été supprimé de la liste des observateurs."
+  },
+  "submittal_package_export.watcher_removed": {
+    "message": "{watcher} a été supprimé de la liste d'observation."
+  },
+  "timespan.days": {
+    "message": "{count, plural,\n=0 { # jours }\none { # jour }\nother { # jours }\n}",
+    "description": "A number of days"
+  },
+  "unassigned": {
+    "message": "non attribué"
+  },
+  "weather.description.clear": {
+    "message": "Ensoleillé et dégagé"
+  },
+  "weather.description.cloudy": {
+    "message": "Nuageux"
+  },
+  "weather.description.fog": {
+    "message": "Brumeux"
+  },
+  "weather.description.heavy_rain": {
+    "message": "Pluie battante"
+  },
+  "weather.description.light_rain": {
+    "message": "Pluie légère"
+  },
+  "weather.description.medium_rain": {
+    "message": "Pluie"
+  },
+  "weather.description.partly-cloudy": {
+    "message": "Partiellement nuageux"
+  },
+  "weather.description.rain": {
+    "message": "Pluie"
+  },
+  "weather.description.sleet": {
+    "message": "Neige fondue"
+  },
+  "weather.description.snow": {
+    "message": "Neige"
+  },
+  "weather.description.weather": {
+    "message": "Temps"
+  },
+  "weather.description.wind": {
+    "message": "Vent"
+  },
+  "weather.humidity": {
+    "message": "Humidité"
+  },
+  "weather.precipitation": {
+    "message": "Précipitations"
+  },
+  "weather.temperature.high": {
+    "message": "Maximales "
+  },
+  "weather.temperature.low": {
+    "message": "Minimales"
+  },
+  "weather.title": {
+    "message": "Temps"
+  },
+  "weather.wind": {
+    "message": "Vent"
+  }
+}

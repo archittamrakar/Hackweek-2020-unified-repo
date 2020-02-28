@@ -1,0 +1,26 @@
+{
+  "issue.type": {
+    "message": "Type",
+    "description": "Type of an issue"
+  },
+  "issue.type.issue": {
+    "message": "Issue",
+    "description": "Issue type"
+  },
+  "issue.type.other": {
+    "message": "Other",
+    "description": "Other type"
+  },
+  "issue.type.planned_work": {
+    "message": "Planned Work",
+    "description": "Planned work type"
+  },
+  "issue.watchers": {
+    "message": "Watchers",
+    "description": "Watchers of an issue"
+  },
+  "issues": {
+    "message": "Tasks",
+    "description": "Tasks label"
+  }
+}
